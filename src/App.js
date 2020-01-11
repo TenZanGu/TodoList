@@ -12,6 +12,6 @@ export default function App() {
 //   return (
 //   )
 // }
-// const Task = props => {
+const Task = props => {
   
-// }
+}
